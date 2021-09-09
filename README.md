@@ -1,6 +1,6 @@
 # Learning economic indicators by aggregating multi-level geospatial information
 
-Pytorch Implementation of Learning economy from multi-level geographic information
+Pytorch Implementation of Learning economic indicators by aggregating multi-level geospatial information
 * Our model is a novel learning model that utilizes multiple levels of geographic information to predict economic indicators.
 * Step 1. our model measures the hyperlocal economy by inferring the relative degree of individual grid image’s economic development via ordinal regression.
 * Step 2. the interconnected relationship among small grid areas within the same district is summarized as district features.
