@@ -1,4 +1,4 @@
-# Learning economy from multi-level geographic information
+# Learning economic indicators by aggregating multi-level geospatial information
 
 Pytorch Implementation of Learning economy from multi-level geographic information
 * Our model is a novel learning model that utilizes multiple levels of geographic information to predict economic indicators.
@@ -7,7 +7,7 @@ Pytorch Implementation of Learning economy from multi-level geographic informati
 * Step 3. our model finally estimates economic indicators of districts by jointly utilizing the hyperlocal predictions and district features.
 
 ## Model architecture ##
-<center><img src="./fig/mdoel.png"> </center>
+<center><img src="./fig/model.png"> </center>
 
 ### Step 1-A. Proxy Pretrain
 * * *
